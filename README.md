@@ -1,6 +1,6 @@
 # Macro Liquidity-Driven State-Switching Factor Rotation Strategy
 
-FIN3083 group project code for a Chinese A-share factor rotation strategy.
+Chinese A-share factor rotation strategy.
 
 This repository is organized for GitHub submission: clean source code, reproducible configuration, paper/slides PDFs, and generated output examples.
 
@@ -137,9 +137,4 @@ The code writes CSV files and charts to `output/`.
 
 The repository intentionally ignores raw CSV files in `data/`, because the original data files are large. Keep the six CSV files locally, then run the pipeline. The `output/` folder contains a generated example result.
 
-## Team
 
-- Qin Han (2230018019)
-- Lai Wei (2230001108)
-- Haolin Zuo (2230018100)
-- Jinyang He (2230006053)
