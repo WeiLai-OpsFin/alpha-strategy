@@ -76,7 +76,7 @@ Factor weights are dynamic. They are estimated with a 2-year rolling Spearman IC
 │   └── FIN3083_Slides.pdf
 └── docs/
     ├── PRD_python.md
-    └── 论文详细中文解析.md
+    └── Detailed Chinese paper analysis document
 ```
 
 ## How to run
@@ -136,5 +136,4 @@ The code writes CSV files and charts to `output/`.
 ## Notes
 
 The repository intentionally ignores raw CSV files in `data/`, because the original data files are large. Keep the six CSV files locally, then run the pipeline. The `output/` folder contains a generated example result.
-
 
