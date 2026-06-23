@@ -2,7 +2,7 @@
 
 Chinese A-share factor rotation strategy.
 
-This repository is organized for GitHub submission: clean source code, reproducible configuration, paper/slides PDFs, and generated output examples.
+This repository is organized as a reproducible strategy research project: clean source code, reproducible configuration, paper/slides PDFs, and generated output examples.
 
 ## What the strategy does
 
@@ -136,4 +136,3 @@ The code writes CSV files and charts to `output/`.
 ## Notes
 
 The repository intentionally ignores raw CSV files in `data/`, because the original data files are large. Keep the six CSV files locally, then run the pipeline. The `output/` folder contains a generated example result.
-
